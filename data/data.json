@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "Francesco De Patre // TERMINAL",
+    "description": "Francesco De Patre – Computer, Electronic & Communication Engineer",
+    "themeColor": "#00ff41"
+  },
+
+  "identity": {
+    "firstName": "Francesco",
+    "lastName": "De Patre",
+    "initials": "FDP",
+    "role": "Computer, Electronic & Communication Engineer",
+    "team": "Former Head of Software at UNIPR Racing Team",
+    "focus": "Embedded systems · Data fusion · Deep learning",
+    "location": "Parma, IT",
+    "email": "fra.dp01@outlook.com",
+    "cvUrl": "https://mega.nz/file/0eM1GJ4D#3xk6faY8Q5_Gwvxctgxtp8uO-a5we8uFuvo6suXUa3U"
+  },
+
+  "social": [
+    { "label": "github",    "url": "https://github.com/francescodepatre" },
+    { "label": "instagram", "url": "https://www.instagram.com/depatrefrancesco" },
+    { "label": "threads",   "url": "https://www.threads.net/@depatrefrancesco" },
+    { "label": "facebook",  "url": "https://www.facebook.com/francesco.depatre.1" }
+  ],
+
+  "tags": [
+    "Embedded Systems", "Machine Learning", "Deep Learning", "Web Development",
+    "Sensor Fusion", "Real-time Systems", "Python", "C/C++"
+  ],
+
+  "about": "Francesco De Patre is an <strong>engineering student</strong> and former member of the <strong>UNIPR Racing Team</strong>, working on projects related to Formula SAE. He specialises in <strong>embedded systems</strong>, <strong>robotics</strong>, and <strong>multimodal data fusion</strong>, with hands-on experience in STM32 development, CAN bus communication, and deep learning for sensor-based applications. His projects include Kinect-based perception and real-time data processing.",
+
+  "skills": [
+    "Embedded Systems",
+    "Data Fusion",
+    "Real-time Processing",
+    "Web Development",
+    "Project Management",
+    "YOLO Detection",
+    "CAN Bus / STM32",
+    "Deep Learning"
+  ],
+
+  "experience": [
+    {
+      "period": "NOV 2024 — SEP 2025",
+      "org": "UNIPR Racing Team",
+      "role": "Head of Software Department",
+      "desc": "Overseeing development & integration of software systems for the Formula SAE car. Embedded systems design, CAN bus communication, real-time monitoring tools."
+    },
+    {
+      "period": "MAY 2024 — NOV 2024",
+      "org": "UNIPR Racing Team",
+      "role": "Member of Software Department",
+      "desc": "Programming, CAN bus implementation, electronic systems design. Hardware/software integration across disciplines."
+    }
+  ],
+
+  "education": [
+    {
+      "period": "PRESENT",
+      "org": "University of Parma",
+      "role": "MSc — Computer Engineering (LM-32)",
+      "desc": "AI, cybersecurity, embedded systems, machine learning, real-time operating systems, high-performance computing."
+    },
+    {
+      "period": "DEC 2024",
+      "org": "University of Parma",
+      "role": "BSc — Computer, Electronic & Communication Engineering",
+      "desc": "Java, internet technologies, signal processing, communication networks, electronics."
+    },
+    {
+      "period": "JUN 2020",
+      "org": "ITC Pascal Comi Forti",
+      "role": "High School Diploma — Corporate Information Systems",
+      "desc": "Computer science, programming, information systems, economics and business operations."
+    }
+  ],
+
+  "projects": [
+    {
+      "num": "01",
+      "cat": "Framework",
+      "title": "Face Detector",
+      "desc": "3D perception using Kinect depth + RGB. Real-time multimodal data fusion with GPS and compass for spatial mapping.",
+      "url": "https://github.com/francescodepatre/3DPerceptionV3.git"
+    },
+    {
+      "num": "02",
+      "cat": "Software",
+      "title": "Winery App",
+      "desc": "Java client/server platform for wine trading. Connects producers, distributors, consumers with secure data communication.",
+      "url": "https://github.com/francescodepatre/Winery.git"
+    },
+    {
+      "num": "03",
+      "cat": "E-Commerce",
+      "title": "BikeHeaven",
+      "desc": "React e-commerce for bicycles. Auth, shopping cart, payment gateway. Fully responsive and performant.",
+      "url": "https://github.com/francescodepatre/BikeHeaven.git"
+    },
+    {
+      "num": "04",
+      "cat": "Software",
+      "title": "WeatherMeasurements",
+      "desc": "Java app collecting meteorological data (temp, humidity, wind, pressure) via client/server. Historical trend visualisation.",
+      "url": "https://github.com/francescodepatre/InternatoLaboratorio.git"
+    },
+    {
+      "num": "05",
+      "cat": "Web Page",
+      "title": "ArtGallery",
+      "desc": "Online platform to showcase and sell artworks. Minimalist layout, image galleries, artist profiles, contact integration.",
+      "url": "https://github.com/francescodepatre/BasiDatiWeb.git"
+    },
+    {
+      "num": "06",
+      "cat": "Framework",
+      "title": "KinectDetection",
+      "desc": "Face detection integrating Kinect RGB + depth. ResNet18 feature extraction combined with GPS/orientation for distance estimation.",
+      "url": "https://github.com/francescodepatre/3DPeceptionKinect.git"
+    }
+  ],
+
+  "contact": {
+    "heading": "Say Hello",
+    "subtext": "Whether you have a question or want to chat about embedded systems, robotics, or creative tech — open a channel.",
+    "ctaLabel": "init_connection()"
+  },
+
+  "boot": [
+    { "text": "BIOS v2.4.1 — UNIPR SYSTEMS",              "color": null },
+    { "text": "CPU: ARM Cortex-M7 @ 480MHz ... OK",        "color": null },
+    { "text": "RAM: 512MB ECC ... OK",                     "color": null },
+    { "text": "CAN Bus interface ... READY",               "color": null },
+    { "text": "Deep learning modules ... LOADED",          "color": null },
+    { "text": "Initializing portfolio kernel ...",         "color": "var(--amber)" },
+    { "text": "████████████████████████ 100%",             "color": "var(--green)" },
+    { "text": "Welcome, operator. Type <span style='color:var(--amber)'>help</span> to begin.", "color": null }
+  ],
+
+  "footer": {
+    "copyright": "© 2025 FRANCESCO DE PATRE",
+    "build": "BUILD v1.0.0-terminal"
+  }
+}
