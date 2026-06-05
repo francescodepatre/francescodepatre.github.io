@@ -113,8 +113,7 @@ function renderIntro(identity, tags, social) {
 function renderAbout(identity, about, skills) {
   /* bio — about text may contain <strong> tags, kept intentionally */
   setHTML('about-bio',
-    '<p><span style="color:var(--amber)">$</span> ' + about + '</p>' +
-    '<a href="' + esc(identity.cvUrl) + '" class="btn-terminal" target="_blank" rel="noopener">download_cv.pdf</a>'
+    '<p><span style="color:var(--amber)">$</span> ' + about + '</p>'
   );
 
   /* skills grid */
