@@ -88,31 +88,31 @@
     },
     {
       "num": "02",
-      "cat": "Software",
-      "title": "Winery App",
-      "desc": "Java client/server platform for wine trading. Connects producers, distributors, consumers with secure data communication.",
-      "url": "https://github.com/francescodepatre/Winery.git"
+      "cat": "Framework",
+      "title": "FlexGP",
+      "desc": "A Typed Genetic Programming (GP) approach for automatic lymph node detection in CT scans, designed to deliver accurate and interpretable results even when only limited training data is available.",
+      "url": "https://github.com/francescodepatre/FlexGP.git"
     },
     {
       "num": "03",
-      "cat": "E-Commerce",
-      "title": "BikeHeaven",
-      "desc": "React e-commerce for bicycles. Auth, shopping cart, payment gateway. Fully responsive and performant.",
-      "url": "https://github.com/francescodepatre/BikeHeaven.git"
+      "cat": "Embedded Systems",
+      "title": "progettoRTOS",
+      "desc": "A cyclic executive scheduler implemented in C++, designed to manage periodic real-time tasks through a deterministic scheduling strategy that ensures predictable execution and timing reliability.",
+      "url": "https://github.com/francescodepatre/progettoRTOS.git"
     },
     {
       "num": "04",
-      "cat": "Software",
-      "title": "WeatherMeasurements",
-      "desc": "Java app collecting meteorological data (temp, humidity, wind, pressure) via client/server. Historical trend visualisation.",
-      "url": "https://github.com/francescodepatre/InternatoLaboratorio.git"
+      "cat": "Mobile Application",
+      "title": "BoxVision",
+      "desc": "An iOS application built with SwiftUI that performs on-device object detection using CoreML and YOLO models, enabling image capture, model selection, and real-time visualization of detection results with bounding boxes, labels, and confidence scores.",
+      "url": "https://github.com/francescodepatre/BoxVision.git"
     },
     {
       "num": "05",
-      "cat": "Web Page",
-      "title": "ArtGallery",
-      "desc": "Online platform to showcase and sell artworks. Minimalist layout, image galleries, artist profiles, contact integration.",
-      "url": "https://github.com/francescodepatre/BasiDatiWeb.git"
+      "cat": "Embedded Systems",
+      "title": "Driving Dashboard",
+      "desc": "A central control dashboard for Formula Student autonomous vehicles, providing mission selection and real-time monitoring of battery state of charge and component temperatures to ensure safe and efficient operation.",
+      "url": "https://github.com/francescodepatre/sae_dash.git"
     },
     {
       "num": "06",
