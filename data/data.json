@@ -119,6 +119,13 @@
       "title": "KinectDetection",
       "desc": "Face detection integrating Kinect RGB + depth. ResNet18 feature extraction combined with GPS/orientation for distance estimation.",
       "url": "https://github.com/francescodepatre/3DPeceptionKinect.git"
+    },
+    {
+      "num": "07",
+      "cat": "Ecommerce",
+      "title": "BikeHeaven",
+      "desc": "Full-stack bike shop built with React and Node.js. Features product catalog, user accounts, Stripe checkout, and a review system.",
+      "url": "https://francescodepatre.github.io/bike-heaven/"
     }
   ],
 
