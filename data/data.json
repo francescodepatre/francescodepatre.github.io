@@ -127,6 +127,14 @@
       "desc": "Full-stack bike shop built with React and Node.js. Features product catalog, user accounts, Stripe checkout, and a review system.",
       "url": "https://francescodepatre.github.io/bike-heaven/"
     }
+    ,
+    {
+      "num": "08",
+      "cat": "Ecommerce",
+      "title": "Winery",
+      "desc": "A wine store management system developed as a Software Engineering project at the University of Parma (2023).",
+      "url": "https://github.com/francescodepatre/Winery-app.git"
+    }
   ],
 
   "contact": {
