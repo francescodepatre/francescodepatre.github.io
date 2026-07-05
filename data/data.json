@@ -134,6 +134,13 @@
       "title": "Winery",
       "desc": "A wine store management system developed as a Software Engineering project at the University of Parma (2023).",
       "url": "https://github.com/francescodepatre/Winery-app.git"
+    },
+    {
+      "num": "09",
+      "cat": "Framework",
+      "title": "ReplicaRecon",
+      "desc": "Offline 3D perception sandbox on Replica indoor scenes",
+      "url": "https://github.com/francescodepatre/ReplicaRecon.git"
     }
   ],
 
