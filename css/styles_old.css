@@ -722,24 +722,10 @@ footer {
     padding: 1rem 2rem;
   }
   nav ul.open { display: flex; }
-
-  .intro-social {
-    flex-wrap: wrap;
-    row-gap: 10px;
-    column-gap: 1.25rem;
-  }
 }
 
 @media (max-width: 480px) {
   .skills-grid  { grid-template-columns: 1fr; }
   .intro-tags   { gap: 6px; }
   #boot-screen  { padding: 2rem 1.5rem; }
-
-  .intro-social {
-    row-gap: 8px;
-    column-gap: 1rem;
-  }
-  .intro-social a {
-    font-size: 11px;
-  }
 }
