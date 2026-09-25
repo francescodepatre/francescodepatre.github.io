@@ -141,6 +141,13 @@
       "title": "ReplicaRecon",
       "desc": "Offline 3D perception sandbox on Replica indoor scenes",
       "url": "https://github.com/francescodepatre/ReplicaRecon.git"
+    },
+    {
+      "num": "10",
+      "cat": "Optimization",
+      "title": "RCSP",
+      "desc": "Resource-Constrained Shortest Path solver in AMPL with sensitivity analysis",
+      "url": "https://github.com/francescodepatre/operations_research_project.git"
     }
   ],
 
